@@ -12,4 +12,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [0584-find-customer-referee](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
