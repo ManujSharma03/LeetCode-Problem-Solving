@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0441-arranging-coins) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Binary Search
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -72,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
