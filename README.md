@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0441-arranging-coins) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
