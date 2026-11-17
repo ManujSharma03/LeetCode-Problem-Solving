@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0118-pascals-triangle) |
 | [0268-missing-number](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0766-toeplitz-matrix](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0766-toeplitz-matrix) |
 | [0821-shortest-distance-to-a-character](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0821-shortest-distance-to-a-character) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0344-reverse-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0657-robot-return-to-origin](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0657-robot-return-to-origin) |
 | [0821-shortest-distance-to-a-character](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0821-shortest-distance-to-a-character) |
 | [1108-defanging-an-ip-address](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/1108-defanging-an-ip-address) |
