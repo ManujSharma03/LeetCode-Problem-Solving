@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ManujSharma03/LeetCode-Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
